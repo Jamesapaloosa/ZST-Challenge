@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApplication1"
         mc:Ignorable="d"
-        Title="Zypher Interview Display" Height="354.117" Width="324.795">
+        Title="Zeypher Interview Display" Height="354.117" Width="324.795">
     <Grid>
         <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="177" VerticalAlignment="Top" Width="100" Margin="112,45,0,0" SelectionChanged="listBox_SelectionChanged" IsSynchronizedWithCurrentItem="True"/>
         <Label x:Name="label" Content="Output" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="16,18,0,0" Width="52"/>
